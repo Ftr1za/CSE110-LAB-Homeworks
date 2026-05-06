@@ -1,3 +1,7 @@
+// Write a method called isPrime which takes an integer in its parameter to
+// check whether a number is prime or not. If the number is prime then the
+// method returns boolean true otherwise it returns boolean false.
+
 public class LAB8HW1{
   public static void main(String [] args){
     int result = special_sum(8);
@@ -22,7 +26,7 @@ public class LAB8HW1{
   public static boolean isPerfect(int x){
     int sum =0;
     for (int i=1; i<x ;i++){
-      if ( x%i==0){
+      if ( x % i==0){
         sum+=i;
       }
     }
