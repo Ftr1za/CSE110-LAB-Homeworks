@@ -1,3 +1,15 @@
+// A. Write a method called calcTax that takes 2 arguments which are your age then your salary. 
+// The method must calculate and return the tax as per the following conditions:
+// ● No tax if you are less than 18 years old.
+// ● No tax if you get paid less than 10,000
+// ● 7% tax if you get paid between 10,000 and 20,000 (both inclusive)
+// ● 14% tax if you get paid more than 20,000
+// B. Write a method called calcYearlyTax that takes no arguments. 
+// Inside the method it should take first input as your age and then 12 other inputs as income of each month of the year. 
+// The method must calculate and print Tax for each month and finally print the total Tax of the whole year based on the A conditions.
+// Note: You must call the method written in task 3A, otherwise this task would be considered invalid.
+
+
 import java.util.Scanner;
 public class LAB8HW3{
   public static void main(String [] args){
