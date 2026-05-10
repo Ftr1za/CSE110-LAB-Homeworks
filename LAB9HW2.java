@@ -1,3 +1,5 @@
+// Write a recursive method called power(base, exponent) that calculates base raised to the power of exponent (assume exponent is a non-negative integer).
+
 public class LAB9HW2{
   public static void main(String [] args){
     int x = power(5,3);
