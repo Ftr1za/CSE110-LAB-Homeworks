@@ -1,3 +1,6 @@
+// Write a recursive method called factorial(n) that returns the factorial of a number n. Assume n>= 0.
+
+
 public class LAB9HW1{
   public static void main(String [] args){
     int x = factorial(5);
