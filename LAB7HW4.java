@@ -1,3 +1,6 @@
+// Write a Java program that will take input of two arrays and elements from the user and check whether the second array is a subset of the first array. 
+// A subset is a set that contains only elements found in the original set.
+
 import java.util.Scanner;
 
 public class LAB7HW4{
