@@ -1,3 +1,10 @@
+// Write a Java program that asks the user for the length of an array then creates a double data-type array of that length by taking inputs from the user.
+// Then do the following:
+// a. Show the maximum element and its index from the array.
+// b. Show the minimum element and its index from the array.
+// c. Show the summation of all the elements from the array.
+// d. Show the average of all the elements from the array.
+
 import java.util.Scanner;
 
 public class LAB7HW3{
