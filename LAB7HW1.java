@@ -1,3 +1,7 @@
+// Take an integer N input from the user and create an integer array of N numbers by taking inputs from the user.
+// Then, print the array. Next, modify the array by changing the positive numbers by 1 and the negative numbers by 0. 
+// If the element is zero, then it will be unchanged. Lastly, print the modified array.
+
 import java.util.Scanner;
 
 public class LAB7HW1{
