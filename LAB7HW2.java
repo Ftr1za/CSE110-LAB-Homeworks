@@ -1,3 +1,8 @@
+// Write a Java program that will take N integer numbers from the user and create an array of length N. Take another number from the user and print the index of the number where it is found first. 
+// If not found then print ‘Element not found’.
+// Note: Think about how to apply the concept of flag and break in this task.
+
+
 import java.util.Scanner;
 
 public class LAB7HW2{
